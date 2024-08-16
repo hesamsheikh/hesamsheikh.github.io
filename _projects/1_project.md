@@ -8,7 +8,7 @@ category: LLM
 related_publications: False
 ---
 
-## Flappy GPT: Can ChatGPT Run Flappy Bird?
+### Can ChatGPT Run Flappy Bird?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,12 +36,6 @@ Despite setting clear rules and examples, GPT-4 struggled to maintain consistent
 
 Next Steps
 Further refinement is necessary. Ideas for improvement include enhancing the system prompt, adding more few-shot examples, and possibly simplifying the game by removing the "DEAD" scenario.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Flappy GPT setup" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 Can You Do Better?
 The project is available on GitHub, and I encourage others to try improving the prompt and see if they can succeed.
