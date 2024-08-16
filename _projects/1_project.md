@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Flappy GPT
+description: Using ChatGPT as a Game Engine to Run Flappy Bird
+img: assets/img/flappy.jpg
 importance: 1
-category: work
-related_publications: true
+category: LLM
+related_publications: False
 ---
 
 Every project has a beautiful feature showcase page.
