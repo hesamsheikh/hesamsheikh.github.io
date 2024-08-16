@@ -246,6 +246,8 @@ exclude:
   - vendor
   - _pages/teaching.md
   - _pages/people.md
+  - _pages/publications.md
+  - _pages/projects.md  
 keep_files:
   - CNAME
   - .nojekyll
