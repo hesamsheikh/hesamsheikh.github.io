@@ -44,8 +44,6 @@ Further refinement is necessary. Ideas for improvement include enhancing the sys
 </div>
 
 Can You Do Better?
-The project is available on GitHub, and I encourage others to try improving the prompt and see if they can succeed where GPT-4 and I struggled.
+The project is available on GitHub, and I encourage others to try improving the prompt and see if they can succeed.
 
-GitHub - hesamsheikh/flappy-gpt: GPT as Game Engine to Run Flappy Bird
-
-{% endraw %}
+[GitHub - hesamsheikh/flappy-gpt: GPT as Game Engine to Run Flappy Bird](https://github.com/hesamsheikh/flappy-gpt)
