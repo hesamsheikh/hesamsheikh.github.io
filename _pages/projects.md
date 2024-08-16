@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Taste of my Projects
+title: Projects
 permalink: /projects/
 description: My projects are usually shared in depth in my blog posts. (see blog section) However, I have included some of them here, briefly. 
 nav: true

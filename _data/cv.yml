@@ -1,0 +1,18 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hesam Sheikh Hassani
+    - name: Languages
+      value: English, German, Persian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.Sc. Artificial Intelligence
+      institution: University of Bologna
+      year: 2023 - 2025
+
+    - title: B.Sc. Computer Engineering
+      institution: K. N. Toosi University of Technology
+      year: 2017 - 2022

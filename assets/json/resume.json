@@ -1,0 +1,118 @@
+{
+    "basics": {
+      "name": "Hesam Sheikh Hassani",
+      "label": "AI Student, Research Fellow",
+      "image": "CV_image.jpg",
+      "email": "hesam.sheikhhassani@studio.unibo.it",
+      "url": "https://hesamsheikh.github.io/",
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "itsHesamSheikh",
+          "url": "https://twitter.com/itsHesamSheikh"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "hesamsheikh",
+            "url": "https://www.linkedin.com/in/hesamsheikh/"
+          }
+      ]
+    },
+    "education": [
+      {
+        "institution": "University of Bologna",
+        "location": "Bologna, Italy",
+        "area": "Artificial Intelligence",
+        "studyType": "M.Sc.",
+        "startDate": "2023",
+        "endDate": "2025"
+      },
+      {
+        "institution": "K. N. Toosi University of Technology",
+        "area": "Computer Engineering",
+        "studyType": "B.Sc.",
+        "startDate": "2017",
+        "endDate": "2023"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Agentic RAG with Llamaindex",
+        "date": "2024",
+        "issuer": "DeepLearning.AI",
+        "url": "https://learn.deeplearning.ai/accomplishments/d1eecf93-7e1e-4dc6-b99a-bd16618e1ef5?usp=sharing"
+      },
+      {
+        "name": "LangChain for LLM Application Development",
+        "date": "2024",
+        "issuer": "DeepLearning.AI",
+        "url": "https://learn.deeplearning.ai/accomplishments/1ad6f1c4-2fbe-4845-b6aa-4582af7085e5?usp=sharing"
+      },
+      {
+        "name": "Introduction to Quantum Computing",
+        "date": "2024",
+        "issuer": "LinkedIn",
+        "url": "https://www.linkedin.com/learning/certificates/1ec7aad778390fe3fa9c9573d82cac2ad541cef3800abe88239742491c2603aa"
+      },
+      {
+        "name": "Quantum Computing Fundamentals",
+        "date": "2024",
+        "issuer": "DeepLearning.AI",
+        "url": "https://www.linkedin.com/learning/certificates/5922fa140cf43d2d062ce18535481d6110c7c694aa8b9d03bed006686fe0896e"
+      },
+      {
+        "name": "Machine Learning in Production",
+        "date": "2023",
+        "issuer": "DeepLearning.AI",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/FMLXDP8JBG2X"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning Algorithms",
+        "level": "Master",
+        "icon": "fa-solid fa-hashtag",
+        "keywords": [
+          "CNN , LSTM, GRU, Decision Trees, XGBoost, Random Forests, SVM, Clustering",
+          "Transformers, LLM",
+          "Genetic Algorithms"
+        ]
+      },
+      {
+        "name": "Languages and Tools",
+        "level": "Master",
+        "icon": "fa-solid fa-hashtag",
+        "keywords": [
+          "Python, C++",
+          "Tensorflow, PyTorch, LangChain, Numpy, Pandas, Scikit-Learn, Keras, TensorRT",
+          "SQL, PostgreSQL, NoSQL, ElasticSearch",
+          "Linux, Git, Docker"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent",
+        "icon": ""
+      },
+      {
+        "language": "German",
+        "fluency": "Limited Working Proficiency",
+        "icon": ""
+      }
+    ],
+    "interests": [
+      {
+        "name": "Machine Learning",
+        "icon": "fa-solid fa-tag",
+        "keywords": [
+          "Research",
+          "Applications in Computer Vision",
+          "Industrial Usage",
+          "Large Language Models",
+          "Interpretability"
+        ]
+      }
+    ]
+  }
