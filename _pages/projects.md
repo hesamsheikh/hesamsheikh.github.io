@@ -5,7 +5,7 @@ permalink: /projects/
 description: My projects are usually shared in depth in my blog posts. (see blog section) However, I have included some of them here, briefly. 
 nav: true
 nav_order: 3
-display_categories: [LLM, Research, ML]
+display_categories: [LLM, Research]
 horizontal: false
 ---
 
