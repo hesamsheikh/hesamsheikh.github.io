@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI Technical Writer & Research Fellow</p>
-    <p>MSc Student @ University of Bologna</p>
-    <p>Email: hesam.sheikhhassani@studio.unibo.it</p>
+    <p>AI Student & Research Fellow</p>
+    <p>MSc Student @ UNIBO</p>
+    <p><a href="mailto:hesam.sheikhhassani@studio.unibo.it">Email</a> | <a href="https://www.linkedin.com/in/hesamsheikh/">LinkedIn</a> </p>
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
